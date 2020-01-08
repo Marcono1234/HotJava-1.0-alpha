@@ -58,3 +58,7 @@ appears on all copies and that no charge is associated with such
 copies. Licensee agrees that the copyright notice and this 
 statement will appear on all copies of the Software, or portions 
 thereof. Sun retains exclusive ownership of the software.
+
+# Disclaimer
+This repository is neither officially affiliated with the Java programming 
+language nor with Oracle or the OpenJDK team.
