@@ -50,6 +50,14 @@ archived. Other old Java files can be found [here](https://web.archive.org/web/*
 of Oak / Java where the former Sun employee Jonathan Payne, who worked on Java, 
 responds.
 
+# HotJava issues
+The HotJava versions are provided in the state in which they were archived<sup>[1](#extraction-note)</sup>.
+It is (at least currently) not the goal of this repository to fix issues in 
+the HotJava source code or documentation.
+
+<a name="extraction-note">1</a>: Extracting the archives and storing their 
+content with Git might have introduced some changes.
+
 # License
 These files are published based on the license included in the HotJava releases 
 and copied as [License.html](https://marcono1234.github.io/HotJava-1.0-alpha/License.html), 
