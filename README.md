@@ -3,11 +3,11 @@ This repository contains the files of HotJava 1.0 alpha, the predecessor of
 the Java programming language.
 
 Contained are:
-- [hj-alpha2](/hj-alpha2) [HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/index.html): 
+- [hj-alpha2](/hj-alpha2) ([HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/index.html)): 
 HotJava 1.0a2 for SunOS
-- [hj-alpha3](/hj-alpha3) [HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha3/hotjava/index.html): 
+- [hj-alpha3](/hj-alpha3) ([HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha3/hotjava/index.html)): 
 HotJava 1.0a3 for SunOS
-- [hotjava-alpha2-nt-x86](/hotjava-alpha2-nt-x86) [HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hotjava-alpha2-nt-x86/hotjava/index.html): 
+- [hotjava-alpha2-nt-x86](/hotjava-alpha2-nt-x86) ([HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hotjava-alpha2-nt-x86/hotjava/index.html)): 
 HotJava 1.0a2 for Windows NT
 
 [*Source*](https://web.archive.org/web/19961225173659/http://sunsite.unc.edu:80/pub/sun-info/hotjava/)
