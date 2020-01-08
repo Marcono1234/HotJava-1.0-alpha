@@ -3,9 +3,12 @@ This repository contains the files of HotJava 1.0 alpha, the predecessor of
 the Java programming language.
 
 Contained are:
-- [hj-alpha2](/hj-alpha2): HotJava 1.0a2 for SunOS
-- [hj-alpha3](/hj-alpha3): HotJava 1.0a3 for SunOS
-- [hotjava-alpha2-nt-x86](/hotjava-alpha2-nt-x86): HotJava 1.0a2 for Windows NT
+- [hj-alpha2](/hj-alpha2) [HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/index.html): 
+HotJava 1.0a2 for SunOS
+- [hj-alpha3](/hj-alpha3) [HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha3/hotjava/index.html): 
+HotJava 1.0a3 for SunOS
+- [hotjava-alpha2-nt-x86](/hotjava-alpha2-nt-x86) [HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hotjava-alpha2-nt-x86/hotjava/index.html): 
+HotJava 1.0a2 for Windows NT
 
 [*Source*](https://web.archive.org/web/19961225173659/http://sunsite.unc.edu:80/pub/sun-info/hotjava/)
 
@@ -26,20 +29,20 @@ named "HotJava"). The first publicly released alpha version was HotJava 1.0a2.
 
 ----
 
-Based on this information and the [changelog of 1.0a2](/hj-alpha2/hotjava/doc/changes/changes.html#Programmer), 
+Based on this information and the [changelog of 1.0a2](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/doc/changes/changes.html#Programmer), 
 1.0a2 is the first version after the "Oak" → "Java" name change.
 
 1.0a2 and 1.0a3 appear to be the only Java versions which produce class files of 
 version major 45, minor 2. These class files are incompatible to any newer class 
 files, starting with major 45, minor 3 (version 1.0b1?); read more [here](https://github.com/ItzSomebody/StopDecompilingMyJava/blob/master/decompiler-tool-bugs/Entry-011/Entry.md) 
-and see the [VM spec](/hj-alpha2/hotjava/doc/vmspec/vmspec_39.html#HEADING243).
+and see the [VM spec](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/doc/vmspec/vmspec_39.html#HEADING243).
 
 Back then the meaning of the field access flag `0x40` was reversed, instead of 
-being "volatile" it was "threadsafe" (= can cache in registers), see [VM spec](/hj-alpha2/hotjava/doc/vmspec/vmspec_38.html#HEADING212).
+being "volatile" it was "threadsafe" (= can cache in registers), see [VM spec](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/doc/vmspec/vmspec_38.html#HEADING212).
 
 The HotJava specific classes (networking, applets, browser interaction) 
 were also not in the `java` package back then, but had their own top level 
-packages, see [package index](/hj-alpha2/hotjava/doc/api/packages.html).
+packages, see [package index](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/doc/api/packages.html).
 
 The files in this repository come from [here](https://web.archive.org/web/19961225173659/http://sunsite.unc.edu:80/pub/sun-info/hotjava/). 
 There are for sure more interesting files there, though sadly not all have been 
@@ -49,7 +52,8 @@ responds.
 
 # License
 These files are published based on the license included in the HotJava releases 
-and copied as [License.html](/License.html), which states (excerpt):
+and copied as [License.html](https://marcono1234.github.io/HotJava-1.0-alpha/License.html), 
+which states (excerpt):
 >Sun grants to you ("Licensee") a non-exclusive license to use the 
 Software for academic, research and internal business purposes only, 
 without fee. Licensee may distribute the binary and source code 
