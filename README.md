@@ -7,6 +7,8 @@ Contained are:
 - [hj-alpha3](/hj-alpha3): HotJava 1.0a3 for SunOS
 - [hotjava-alpha2-nt-x86](/hotjava-alpha2-nt-x86): HotJava 1.0a2 for Windows NT
 
+[*Source*](https://web.archive.org/web/19961225173659/http://sunsite.unc.edu:80/pub/sun-info/hotjava/)
+
 # History & background
 In 1991 a small team of Sun Microsystems employees, known as the "Green Team", 
 was chartered to plan for the "next wave" in computing. By the summer of 1992 
@@ -20,11 +22,11 @@ Therefore they created a webbrowser based on their new programming language
 similar to the then popular Mosaic browser and called it "WebRunner" (later 
 named "HotJava"). The first publicly released alpha version was HotJava 1.0a2.
 
-[Source](https://web.archive.org/web/19990223195009/http://java.sun.com/features/1998/05/birthday.html)
+[*Source*](https://web.archive.org/web/19990223195009/http://java.sun.com/features/1998/05/birthday.html)
 
 ----
 
-Based on this information and the [changelog of 1.0a2](/hj-alpha2/hotjava/doc/changes/changes.html#Programmer) 
+Based on this information and the [changelog of 1.0a2](/hj-alpha2/hotjava/doc/changes/changes.html#Programmer), 
 1.0a2 is the first version after the "Oak" → "Java" name change.
 
 1.0a2 and 1.0a3 appear to be the only Java versions which produce class files of 
@@ -48,11 +50,11 @@ responds.
 # License
 These files are published based on the license included in the HotJava releases 
 and copied as [License.html](/License.html), which states (excerpt):
->Sun grants to you ("Licensee") a non-exclusive license to use the        
-Software for academic, research and internal business purposes only,     
-without fee. Licensee may distribute the binary and source code          
-to third parties provided that the copyright notice and this statement   
-appears on all copies and that no charge is associated with such         
-copies. Licensee agrees that the copyright notice and this               
-statement will appear on all copies of the Software, or portions         
-thereof.  Sun retains exclusive ownership of the software.
+>Sun grants to you ("Licensee") a non-exclusive license to use the 
+Software for academic, research and internal business purposes only, 
+without fee. Licensee may distribute the binary and source code 
+to third parties provided that the copyright notice and this statement 
+appears on all copies and that no charge is associated with such 
+copies. Licensee agrees that the copyright notice and this 
+statement will appear on all copies of the Software, or portions 
+thereof. Sun retains exclusive ownership of the software.
