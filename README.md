@@ -10,7 +10,7 @@ HotJava 1.0a3 for SunOS
 - [hotjava-alpha2-nt-x86](/hotjava-alpha2-nt-x86) ([HTML](https://marcono1234.github.io/HotJava-1.0-alpha/hotjava-alpha2-nt-x86/hotjava/index.html)): 
 HotJava 1.0a2 for Windows NT
 
-[*Source*](https://web.archive.org/web/19961225173659/http://sunsite.unc.edu:80/pub/sun-info/hotjava/)
+[*Source*][hotjava-source]
 
 # History & background
 In 1991 a small team of Sun Microsystems employees, known as the "Green Team", 
@@ -44,7 +44,7 @@ The HotJava specific classes (networking, applets, browser interaction)
 were not in the `java` package back then, but had their own top level 
 packages, see [package index](https://marcono1234.github.io/HotJava-1.0-alpha/hj-alpha2/hotjava/doc/api/packages.html).
 
-The files in this repository come from [here](https://web.archive.org/web/19961225173659/http://sunsite.unc.edu:80/pub/sun-info/hotjava/). 
+The files in this repository come from [here][hotjava-source]. 
 There are for sure more interesting files there, though sadly not all have been 
 archived. Other old Java files can be found [here](https://web.archive.org/web/*/http://www.mcp.com/que/javarc/se_java/*). 
 Also quite interesting is [this mention](https://groups.google.com/d/topic/comp.lang.misc/bmo0GZ5r_eY/discussion) 
@@ -75,3 +75,6 @@ thereof. Sun retains exclusive ownership of the software.
 # Disclaimer
 This repository is neither officially affiliated with the Java programming 
 language nor with Oracle or the OpenJDK team.
+
+
+[hotjava-source]: https://web.archive.org/web/19961225173659/http://sunsite.unc.edu:80/pub/sun-info/hotjava/
